@@ -15,4 +15,4 @@ With scripting, you can modify cars, environments, physics, UI elements, and muc
 
 If you can imagine it, we can build it. Let’s push the limits of Assetto Corsa together.
 
-Please contact us on discord
+Please contact us [on discord](https://discord.gg/UXf78EQ8yC)
